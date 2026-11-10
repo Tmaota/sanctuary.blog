@@ -8,7 +8,7 @@
     "description": "由猫创造的黑暗喷泉",
     "opening": "只是为了留住什么",
     "scrollCue": "FALL DOWN",
-    "closing": "有晚上，有早晨。",
+    "closing": "lost one",
     "closingEnglish": "ANOTHER BEGINNING.",
     "url": "https://tmaota.github.io/sanctuary.blog"
   },
@@ -42,25 +42,25 @@
     "items": []
   },
   "projects": {
-    "title": "写作与工具",
+    "title": "项目",
     "eyebrow": "WORKSHOP / IN PROGRESS",
     "empty": "新的创造，正在准备中。",
-    "description": "把写作中的想法，做成可以使用的东西。",
+    "description": "做我想做的",
     "items": [
-      {
-        "id": "writing-app",
-        "title": "小说写作软件",
-        "description": "正在开发中的小说写作工具。",
-        "status": "开发中",
-        "url": "",
-        "paragraphs": []
-      },
       {
         "id": "homepage-sanctuary",
         "title": "个人主页「第■圣域」",
-        "description": "这个三维个人主页本身：七个场景、连续运镜与私人书桌。",
+        "description": "",
         "status": "进行中",
         "url": "https://github.com/Tmaota/sanctuary",
+        "paragraphs": []
+      },
+      {
+        "id": "project-mwb3dc3t-nde",
+        "title": "自己码字用的",
+        "url": "https://github.com/Tmaota/maoxie-writer",
+        "description": "",
+        "status": "更新中",
         "paragraphs": []
       }
     ]
@@ -469,15 +469,15 @@
     "libraryTitle": "未寄出的书页",
     "libraryText": "尚未落笔的地方，也会有故事。",
     "libraryCaption": "SUMMER / THE UNWRITTEN",
-    "observatoryTitle": "观测记录",
-    "observatoryText": "每一种创造，都从一张空白的图纸开始。",
+    "observatoryTitle": "",
+    "observatoryText": "随意的一刹",
     "observatoryCaption": "TERRA / FIELD SURVEY",
     "stationTitle": "下一站",
-    "stationText": "有些事情，写下来才算抵达。",
+    "stationText": "",
     "stationCaption": "DEPARTURE / KEEP A TRACE",
     "creationTitle": "起初",
     "creationText": "AND THERE WAS LIGHT.",
-    "returnTitle": "留给下一次"
+    "returnTitle": ""
   },
   "publishing": {
     "repository": "",
@@ -536,7 +536,13 @@
   },
   "friends": {
     "title": "友情链接",
-    "items": []
+    "items": [
+      {
+        "label": "lumi",
+        "url": "https://github.com/LumiereLP",
+        "note": ""
+      }
+    ]
   },
   "music": {
     "mode": "ambient",
