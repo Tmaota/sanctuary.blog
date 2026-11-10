@@ -5,36 +5,32 @@
     "wordmark": "/sanctuary",
     "subtitle": "第■圣域",
     "edition": "08.15 / SUMMER FINALE",
-    "description": "路口、教室、观测站、告别站台、创世庭园与夏日天台。六处风景，沿着滚动缓缓相连。",
-    "opening": "穿过门的另一侧，继续这个夏天。",
-    "scrollCue": "SCROLL TO WANDER",
+    "description": "由猫创造的黑暗喷泉",
+    "opening": "只是为了留住什么",
+    "scrollCue": "FALL DOWN",
     "closing": "有晚上，有早晨。",
     "closingEnglish": "ANOTHER BEGINNING.",
     "url": "https://tmaota.github.io/sanctuary.blog"
   },
   "profile": {
-    "title": "关于我",
+    "title": "",
     "name": "Tmaota",
-    "role": "小说作者 / 正在制作写作软件",
+    "role": "小说作者 / 好吃懒做的橘猫",
     "paragraphs": [],
-    "empty": "",
-    "footer": "在虚构与日常之间，记录一些事情。",
+    "empty": "喵",
+    "footer": "",
     "socialLinks": [
       {
         "label": "GitHub",
-        "url": ""
+        "url": "https://github.com/Tmaota"
       },
       {
         "label": "X",
-        "url": ""
+        "url": "https://x.com/CatTowerCat"
       },
       {
         "label": "Pixiv",
-        "url": ""
-      },
-      {
-        "label": "邮箱",
-        "url": ""
+        "url": "https://www.pixiv.net/users/45224713"
       }
     ]
   },
@@ -466,10 +462,10 @@
     ]
   },
   "windows": {
-    "timeTitle": "此时此刻",
-    "nowLines": "正在做：小说写作软件 与 这个主页",
-    "timeText": "状态随手更新，不必正式。",
-    "timeCaption": "NOW / AN ENDLESS AFTERNOON_",
+    "timeTitle": "NOW",
+    "nowLines": "正在创作：《遗忘巡回》",
+    "timeText": "",
+    "timeCaption": "NOW / Updated irregularly",
     "libraryTitle": "未寄出的书页",
     "libraryText": "尚未落笔的地方，也会有故事。",
     "libraryCaption": "SUMMER / THE UNWRITTEN",
@@ -495,13 +491,13 @@
       "cards": []
     },
     "profile": {
-      "caption": "八月路口 / IDENTITY",
+      "caption": "禁止通行/立入禁止",
       "footerLeft": "01 / IDENTITY",
       "footerRight": "",
       "cards": []
     },
     "novels": {
-      "caption": "风中的教室 / STORIES",
+      "caption": "教室 / STORIES",
       "footerLeft": "02 / NOVELS",
       "footerRight": "",
       "cards": []
