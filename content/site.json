@@ -70,7 +70,15 @@
     "eyebrow": "DIARY / SMALL THINGS",
     "empty": "这里还没有写下的日常。",
     "description": "心得、片刻，和一些不必成为故事的事情。",
-    "items": []
+    "items": [
+      {
+        "id": "note-mwb3ssly-ivw",
+        "title": "遗忘",
+        "date": "2026-11-11",
+        "summary": "真有趣，连我自己也不明白。 但总有一天，这里也会消失。 那样的话，我们也许就无法再见面了 …… 我不确定，你还想再见到我吗？ 你也许会忘记我，我也许会忘记自己， 但我会记住你的善意。 现在，这里很快就会消失。你必须离开了 如果你愿意，我们会在那个地方再次相见…… 无论是 ■小时，还是 ■年",
+        "paragraphs": []
+      }
+    ]
   },
   "scriptures": {
     "title": "创世记",
@@ -472,7 +480,7 @@
     "observatoryTitle": "",
     "observatoryText": "随意的一刹",
     "observatoryCaption": "TERRA / FIELD SURVEY",
-    "stationTitle": "下一站",
+    "stationTitle": "LAST.",
     "stationText": "",
     "stationCaption": "DEPARTURE / KEEP A TRACE",
     "creationTitle": "起初",
