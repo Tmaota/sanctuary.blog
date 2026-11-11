@@ -39,7 +39,22 @@
     "eyebrow": "STORIES / PIXIV",
     "empty": "故事尚未陈列。",
     "description": "一些写在夏日里的故事。",
-    "items": []
+    "items": [
+      {
+        "id": "novel-mwc0dj6p-jsu",
+        "title": "未有之夏",
+        "url": "https://www.pixiv.net/novel/series/16317716",
+        "description": "重逢，是故事的开始吗？\n\n对他来说，重逢是结局。",
+        "status": "已完结"
+      },
+      {
+        "id": "novel-mwc0ey2i-c4n",
+        "title": "遗忘巡回",
+        "url": "https://www.pixiv.net/novel/series/16535657",
+        "description": "忘记，是失去的开始吗？\n\n对他来说，忘记是出发。\n",
+        "status": "连载"
+      }
+    ]
   },
   "projects": {
     "title": "项目",
